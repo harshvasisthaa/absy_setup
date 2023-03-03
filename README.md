@@ -64,3 +64,12 @@ absy subscribe
 
 > You should receive a windows notificaion someting like below:
 ![app notificaion](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/appNotification.png?raw=true)
+
+
+## Salesforce Development
+
+> You can go through the "DesktopNotification.cls" or "DesktopNotificationTesting.cls" classes to check how to trigger a notificaion from apex classes.
+> This notificaion is dependent on the Notify__e platform event, so if we trigger the platform event even without the code the notificaion will work.
+
+
+## Thank You
