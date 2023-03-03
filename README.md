@@ -1,1 +1,1 @@
-# absy_setup
+# absy (a notificaion app for Salesforce developed by ABSYZ Inc.)
