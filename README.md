@@ -36,3 +36,12 @@ absy -a alias -s
 ```sh
 absy -a alias -c https://yourdomain.salesforce.com
 ```
+
+
+## Enable Subscription
+
+> After the authentication, you can subscribe to notificaion using below command, on successful subscription windows will show the notificiaon.
+```sh
+absy subscribe
+```
+![absy subscribe](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/subscribe.png?raw=true)
