@@ -37,6 +37,15 @@ absy -a alias -s
 absy -a alias -c https://yourdomain.salesforce.com
 ```
 
+## Salesforce Subscription
+
+> Install below managed package in the Salesforce ORG.
+
+For Production ORG
+[https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5g000000Imfb](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5g000000Imfb)
+
+For Sandbox ORG
+[https://test.salesforce.com/packaging/installPackage.apexp?p0=04t5g000000Imfb](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5g000000Imfb)
 
 ## Enable Subscription
 
