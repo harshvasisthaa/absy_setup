@@ -69,7 +69,7 @@ absy subscribe
 ## Salesforce Development
 
 > You can go through the "DesktopNotification.cls" or "DesktopNotificationTesting.cls" classes to check how to trigger a notificaion from apex classes.
-> This notificaion is dependent on the Notify__e platform event, so if we trigger the platform event even without the code the notificaion will work.
+> This notificaion is dependent on the Notifier__e platform event, so if we trigger the platform event even without the code the notificaion will work.
 
 
 ## Thank You
