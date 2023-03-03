@@ -15,3 +15,6 @@
 
 > Add path and save
 ![Add Path](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/addPath.png?raw=true)
+
+> Open CMD and run comman "absy help"
+![absy help](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/absyHelp.png?raw=true)
