@@ -11,4 +11,7 @@
 ![installation screen](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/installation.png?raw=true)
 
 > Search for "Your Account" in windows search and select "Edit enviroment variable for your account"
-![installation screen](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/enviroment.png?raw=true)
+![search env](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/enviroment.png?raw=true)
+
+> Add path and save
+![Add Path](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/addPath.png?raw=true)
