@@ -37,7 +37,7 @@ absy -a alias -s
 absy -a alias -c https://yourdomain.salesforce.com
 ```
 
-## Salesforce Subscription
+## Salesforce Installation
 
 > Install below managed package in the Salesforce ORG.
 
@@ -54,3 +54,13 @@ For Sandbox ORG
 absy subscribe
 ```
 ![absy subscribe](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/subscribe.png?raw=true)
+
+
+## Send notificaion from Salesforce to Desktop
+
+> Go to app launcher and search for "Desktop Push Notification" tab (managed package).
+> Enter title, content, and target id (only accepts record id, else throw error) and click on "notify ABSY"
+![absy subscribe](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/sfpublish.png?raw=true)
+
+> You should receive a windows notificaion someting like below:
+![app notificaion](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/appNotification.png?raw=true)
