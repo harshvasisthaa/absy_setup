@@ -18,3 +18,21 @@
 
 > Open CMD and run comman "absy help"
 ![absy help](https://github.com/harshvasisthaa/absy_setup/blob/main/docs/absyHelp.png?raw=true)
+
+
+## Authentication
+
+> To authenticate with production org
+```sh
+absy -a alias
+```
+
+> To authenticate with sandbox org
+```sh
+absy -a alias -s
+```
+
+> To authenticate with custom URL org
+```sh
+absy -a alias -c https://yourdomain.salesforce.com
+```
